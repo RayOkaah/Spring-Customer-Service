@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CustomerserviceApplication",
+            "request": "launch",
+            "mainClass": "com.rayokaah.customerservice.CustomerserviceApplication",
+            "projectName": "customerservice"
+        }
+    ]
+}
